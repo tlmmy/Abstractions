@@ -7,7 +7,7 @@ package abstractions;
 
 /**
  *
- * @author L152student
+ * @author Tim Rogers
  */
 public class HarryPotter extends Wizard{
     
